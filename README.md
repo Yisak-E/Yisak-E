@@ -35,7 +35,7 @@ Java-based console application for detailed diet monitoring
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yisak-isaac-ma2027)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Yisak-E)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://your-portfolio-link.com)
 
