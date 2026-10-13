@@ -16,12 +16,6 @@ All-in-one productivity platform with multiple integrated tools
 - ✅ Interactive To-Do List
 - **Tech:** React, Node.js, Firebase, REST APIs
 
-### **NutriTrack - Nutrition Tracker**
-Java-based console application for detailed diet monitoring
-- 🍎 Meal logging with persistent storage
-- 📊 Real-time progress tracking & custom goals
-- 📈 Comprehensive nutritional reports
-
 
 ---
  **Tech staff:** 
